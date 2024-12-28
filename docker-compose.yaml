@@ -1,5 +1,3 @@
-version: '1'
-
 services:
   react-app:
     image: node:22
