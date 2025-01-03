@@ -2,7 +2,7 @@
 
 # Start the FastAPI backend
 cd /app/backend
-uvicorn main:app --host 0.0.0.0 --port 5000 --reload &
+uvicorn main:app --host 0.0.0.0 --port 5000 &
 
 # Start the React frontend
 cd /app/frontend
