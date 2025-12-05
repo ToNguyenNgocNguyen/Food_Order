@@ -12,3 +12,5 @@ docker run -d --name my_app_container -p 3000:3000 -p 5000:5000 nto218145/food_o
 ```bash
 docker compose up -d
 ```
+
+## End
